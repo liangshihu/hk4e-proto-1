@@ -1,4 +1,4 @@
-module github.com/teyvat-helper/hk4e-proto
+module github.com/lotusmomo/hk4e-proto
 
 go 1.19
 
